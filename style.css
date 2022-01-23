@@ -1,6 +1,6 @@
 
 img{
-width: 400px;
+width: 300px;
 margin: 30px;
 transition: 1s;
 }
@@ -8,9 +8,9 @@ transition: 1s;
 
 
 img:hover{
-    width: 400px;  
-    height:250px; 
-    margin: 0px;
+  transform: scale(1.2);
+  width: 400px;
+  margin: 0px;
 }
 
 h1{

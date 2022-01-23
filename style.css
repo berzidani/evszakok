@@ -7,10 +7,10 @@ transition: 1s;
 
 }
 
-img:hover{
-    width: 500px;
-    margin: 0;
+.img:hover{
+    width: 400px;   
 }
+
 h1{
     text-align: center;
 }
